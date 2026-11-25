@@ -1,0 +1,69 @@
+
+[
+    {
+      "id": 1,
+      "title": "AI and Machine Learning",
+      "category": "course",
+      "fee": 25000,
+      "content": "NovaSkill Academy offers a six-month AI and Machine Learning course for INR 25000. It covers Python, machine learning, deep learning, generative AI, RAG and practical projects. Basic programming knowledge is recommended."
+    },
+    {
+      "id": 2,
+      "title": "Data Science",
+      "category": "course",
+      "fee": 30000,
+      "content": "The Data Science course costs INR 30000 and lasts six months. It covers Python, SQL, statistics, data visualization and predictive analytics."
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Development",
+      "category": "course",
+      "fee": 20000,
+      "content": "The Full Stack Development course costs INR 20000 and lasts four months. It covers HTML, CSS, JavaScript, React, Python, FastAPI, databases and deployment."
+    },
+    {
+      "id": 4,
+      "title": "Python Programming",
+      "category": "course",
+      "fee": 10000,
+      "content": "The Python Programming course costs INR 10000 and lasts two months. No previous programming experience is required."
+    },
+    {
+      "id": 5,
+      "title": "Cloud Computing",
+      "category": "course",
+      "fee": 22000,
+      "content": "The Cloud Computing course costs INR 22000 and lasts four months. It covers AWS, Docker, networking, CI/CD and cloud deployment."
+    },
+    {
+      "id": 6,
+      "title": "Payment Options",
+      "category": "policy",
+      "content": "Students can pay in full or request an installment plan through an admissions counsellor. Discounts are subject to approval."
+    },
+    {
+      "id": 7,
+      "title": "Placement Assistance",
+      "category": "policy",
+      "content": "NovaSkill Academy provides resume guidance, mock interviews and career mentoring. Employment and salary outcomes are not guaranteed."
+    },
+    {
+      "id": 8,
+      "title": "Class Timings",
+      "category": "faq",
+      "content": "Online weekday and weekend batches are available depending on demand. Exact schedules are confirmed by admissions counsellors."
+    },
+    {
+      "id": 9,
+      "title": "Refund Policy",
+      "category": "policy",
+      "content": "Refund eligibility depends on the enrollment agreement and course commencement date. Contact an admissions counsellor for confirmation."
+    },
+    {
+      "id": 10,
+      "title": "Admissions Consultation",
+      "category": "faq",
+      "content": "NovaSkill Academy offers free 30-minute admissions consultations. Appointments are subject to counsellor availability."
+    }
+  ]
+  

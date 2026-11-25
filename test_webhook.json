@@ -1,0 +1,16 @@
+{
+    "message": {
+        "type": "end-of-call-report",
+        "call": {
+            "id": "test-call-001"
+        },
+        "artifact": {
+            "transcript": "Customer interested in AI course."
+        },
+        "analysis": {
+            "summary": "Customer requested course details."
+        },
+        "endedReason": "customer-ended-call",
+        "cost": 0.09
+    }
+}

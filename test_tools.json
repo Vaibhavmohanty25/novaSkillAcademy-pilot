@@ -1,0 +1,35 @@
+{
+  "message": {
+    "type": "tool-calls",
+    "call": {
+      "id": "phase3-test-001"
+    },
+    "toolCallList": [
+      {
+        "id": "tool-001",
+        "type": "function",
+        "function": {
+          "name": "search_knowledge",
+          "arguments": {
+            "query": "What is the fee for AI and Machine Learning?"
+          }
+        }
+      },
+      {
+        "id": "tool-002",
+        "type": "function",
+        "function": {
+          "name": "update_lead",
+          "arguments": {
+            "name": "Rahul",
+            "course": "AI and Machine Learning",
+            "education": "Engineering student",
+            "budget": 30000,
+            "timeline": "within_30_days",
+            "interest": "high"
+          }
+        }
+      }
+    ]
+  }
+}
